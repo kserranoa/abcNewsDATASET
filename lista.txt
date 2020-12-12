@@ -1,0 +1,1746 @@
+<!DOCTYPE html>
+<!-- saved from url=(0063)https://www.uccaep.or.cr/index.php/about/camaras-asociadas.html -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es" slick-uniqueid="3" class="csstransforms csstransforms3d csstransitions"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <!--[if IE 8]>
+    <link rel="stylesheet" href="/templates/theme1795/css/ie.css" />
+  <![endif]-->
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+  <div>­<style> .powrLoaded iframe { visibility: hidden; } </style></div><div>­<style> .powrLoaded iframe { visibility: hidden; } </style></div><div>­<style> .powrLoaded iframe { visibility: hidden; } </style></div><div>­<style> .powrLoaded iframe { visibility: hidden; } </style></div><div>­<style> .powrLoaded iframe { visibility: hidden; } </style></div><div>­<style> .powrLoaded iframe { visibility: hidden; } </style></div><div>­<style> .powrLoaded iframe { visibility: hidden; } </style></div><div>­<style> .powrLoaded iframe { visibility: hidden; } </style></div><div>­<style> .powrLoaded iframe { visibility: hidden; } </style></div><div>­<style> .powrLoaded iframe { visibility: hidden; } </style></div><div>­<style> .powrLoaded iframe { visibility: hidden; } </style></div><!--<base href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas.html">--><base href=".">
+	
+	<meta name="keywords" content="UCCAEP, Unión de Cámaras, Unión Costarricense de Cámaras, Unión Costarricense de Cámaras y Asociaciones del Sector Empresarial Privado.">
+		<meta name="description" content="Cámaras Asociadas">
+	<title>Cámaras Asociadas - UCCAEP, Unión Costarricense de Cámaras y Asociaciones del Sector Empresarial Privado, Costa Rica</title>
+	<link href="https://www.uccaep.or.cr/templates/theme1795/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+	<link href="./lista_files/bootstrap.css" rel="stylesheet" type="text/css">
+	<link href="./lista_files/default.css" rel="stylesheet" type="text/css">
+	<link href="./lista_files/template.css" rel="stylesheet" type="text/css">
+	<link href="./lista_files/touch.gallery.css" rel="stylesheet" type="text/css">
+	<link href="./lista_files/responsive.css" rel="stylesheet" type="text/css">
+	<link href="./lista_files/komento.css" rel="stylesheet" type="text/css">
+	<link href="./lista_files/magnific-popup.css" rel="stylesheet" type="text/css">
+	<link href="./lista_files/layout.css" rel="stylesheet" type="text/css">
+	<link href="./lista_files/superfish.css" rel="stylesheet" type="text/css">
+	<link href="./lista_files/superfish-navbar.css" rel="stylesheet" type="text/css">
+	<link href="./lista_files/superfish-vertical.css" rel="stylesheet" type="text/css">
+	<script async="" src="./lista_files/analytics.js.descarga"></script><script id="powr-js" async="" src="./lista_files/powr_joomla.js.descarga" powr-token="l8Ml9NiDyh1423587020" external-type="joomla"></script><script type="application/json" class="joomla-script-options new">{"csrf.token":"31a55001468e4ffbe848c5b04226d9a6","system.paths":{"root":"","base":""}}</script>
+	<script src="./lista_files/jquery.min.js.descarga" type="text/javascript"></script>
+	<script src="./lista_files/jquery-noconflict.js.descarga" type="text/javascript"></script>
+	<script src="./lista_files/jquery-migrate.min.js.descarga" type="text/javascript"></script>
+	<script src="./lista_files/caption.js.descarga" type="text/javascript"></script>
+	<script src="./lista_files/mootools-core.js.descarga" type="text/javascript"></script>
+	<script src="./lista_files/core.js.descarga" type="text/javascript"></script>
+	<script src="./lista_files/mootools-more.js.descarga" type="text/javascript"></script>
+	<script src="./lista_files/bootstrap.min.js.descarga" type="text/javascript"></script>
+	<script src="./lista_files/jquery.mobile.customized.min.js.descarga" type="text/javascript"></script>
+	<script src="./lista_files/jquery.easing.1.3.js.descarga" type="text/javascript"></script>
+	<script src="./lista_files/bootstrap.js.descarga" type="text/javascript"></script>
+	<script src="./lista_files/jquery.isotope.min.js.descarga" type="text/javascript"></script>
+	<script src="./lista_files/jquery.magnific-popup.js.descarga" type="text/javascript"></script>
+	<script src="./lista_files/scripts.js.descarga" type="text/javascript"></script>
+	<script src="./lista_files/superfish.js.descarga" type="text/javascript"></script>
+	<script src="./lista_files/jquery.mobilemenu.js.descarga" type="text/javascript"></script>
+	<script src="./lista_files/jquery.hoverIntent.js.descarga" type="text/javascript"></script>
+	<script src="./lista_files/supersubs.js.descarga" type="text/javascript"></script>
+	<script src="./lista_files/sftouchscreen.js.descarga" type="text/javascript"></script>
+	<script type="text/javascript">
+(function(d){
+					  var js, id = 'powr-js', ref = d.getElementsByTagName('script')[0];
+					  if (d.getElementById(id)) {return;}
+					  js = d.createElement('script'); js.id = id; js.async = true;
+					  js.src = 'https://www.uccaep.or.cr/plugins/content/POWrShortcodes/powr_joomla.js';
+					  js.setAttribute('powr-token','l8Ml9NiDyh1423587020');
+					  js.setAttribute('external-type','joomla');
+					  ref.parentNode.insertBefore(js, ref);
+					}(document));
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+jQuery(function($) {
+			 $('.hasTip').each(function() {
+				var title = $(this).attr('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					var mtelement = document.id(this);
+					mtelement.store('tip:title', parts[0]);
+					mtelement.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($('.hasTip').get(), {"maxTitleChars": 50,"fixed": false});
+		});
+jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+jQuery.noConflict()
+	</script>
+
+  
+</head>
+
+<body class="com_content view-category task- itemid-287 body__" style="">
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-69541810-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+  <!-- Body -->
+  <div id="wrapper">
+    <div class="wrapper-inner">
+
+    <!-- Top -->
+          <div id="top-row">
+        <div class="row-container">
+          <div class="container-fluid">
+            <div id="top" class="row-fluid">
+              <div class="moduletable  ">
+
+<div class="mod-custom mod-custom__">
+	<p><img src="./lista_files/logotop.jpg" alt="logotop"></p></div>
+</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+    <!-- Header -->
+      <div id="header-row">
+        <div class="row-container">
+          <div class="container-fluid">
+            <header>
+              <div class="row-fluid">
+                  <!-- Logo -->
+                  <div id="logo" class="span3">
+                    <a href="https://www.uccaep.or.cr/">
+                      <img src="./lista_files/logo.png" alt="UCCAEP, Unión Costarricense de Cámaras y Asociaciones del Sector Empresarial Privado, Costa Rica">
+                    </a>
+                  </div>
+                  <div class="moduletable navigation ">
+<ul class="sf-menu   sf-js-enabled">
+
+<li class="item-101 firstItem"><a href="https://www.uccaep.or.cr/index.php">Home <br><small>Inicio</small></a></li><li class="item-167 active deeper parent"><span class="separator">Quiénes Somos <br><small>Conozca UCCAEP</small></span>
+<ul class="sub-menu" style="display: none;"><li class="item-275 firstItem"><a href="https://www.uccaep.or.cr/index.php/about/mision-y-vision.html">Misión y Visión</a></li><li class="item-276"><a href="https://www.uccaep.or.cr/index.php/about/principios-de-la-organizacion.html">Principios de la organización</a></li><li class="item-277"><a href="https://www.uccaep.or.cr/index.php/about/objetivos.html">Objetivos</a></li><li class="item-278"><a href="https://www.uccaep.or.cr/index.php/about/codigo-de-buenas-practicas.html">Código de buenas prácticas</a></li><li class="item-279"><a href="https://www.uccaep.or.cr/index.php/about/declaratoria-de-interes-publico.html">Declaratoria de interés público</a></li><li class="item-280 deeper parent"><span class="separator">Sobre UCCAEP &gt;</span>
+<ul class="sub-menu" style="display: none;"><li class="item-281 firstItem"><a href="https://www.uccaep.or.cr/index.php/about/sobre-uccaep/consejo-directivo.html">Consejo Directivo</a></li><li class="item-282"><a href="https://www.uccaep.or.cr/index.php/about/sobre-uccaep/estatutos.html">Estatutos</a></li><li class="item-283"><a href="https://www.uccaep.or.cr/index.php/about/sobre-uccaep/informe-de-labores.html">Informe de labores</a></li><li class="item-284"><a href="https://www.uccaep.or.cr/index.php/about/sobre-uccaep/staff.html">Staff</a></li><li class="item-285"><a href="https://www.uccaep.or.cr/index.php/about/sobre-uccaep/patrocinadores.html">Patrocinadores</a></li><li class="item-286 lastItem"><a href="https://www.uccaep.or.cr/index.php/about/sobre-uccaep/agendas-de-competitividad.html">Agendas de competitividad</a></li></ul></li><li class="item-287 current active"><a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas.html">Cámaras Asociadas</a></li><li class="item-405 lastItem"><a href="https://www.uccaep.or.cr/index.php/about/uccaep-es-miembro-de.html">UCCAEP es parte del BIAC y la OIE</a></li></ul></li><li class="item-169"><a href="https://www.uccaep.or.cr/index.php/gallery.html">Pulso Empresarial <br><small>Encuesta Trimestral</small></a></li><li class="item-475"><a href="https://www.uccaep.or.cr/index.php/comunicados-prensa.html">Comunicados de Prensa</a></li><li class="item-173"><a href="https://www.uccaep.or.cr/index.php/enlaces-de-interes.html">Enlaces de Interés</a></li><li class="item-102"><a href="https://www.uccaep.or.cr/index.php/contact-us.html">Contáctenos</a></li><li class="item-497"><a href="https://uccaepinforma.com/" target="_blank">UCCAEP Informa</a></li><li class="item-504 lastItem"><a href="https://www.uccaep.or.cr/index.php/gan-costa-rica.html">GAN Costa Rica</a></li></ul><select class="select-menu"><option value="#">Navigate to...</option><option value="https://www.uccaep.or.cr/index.php">Home Inicio</option><option value="#">Quiénes Somos Conozca UCCAEP</option><option value="https://www.uccaep.or.cr/index.php/about/mision-y-vision.html">–Misión y Visión</option><option value="https://www.uccaep.or.cr/index.php/about/principios-de-la-organizacion.html">–Principios de la organización</option><option value="https://www.uccaep.or.cr/index.php/about/objetivos.html">–Objetivos</option><option value="https://www.uccaep.or.cr/index.php/about/codigo-de-buenas-practicas.html">–Código de buenas prácticas</option><option value="https://www.uccaep.or.cr/index.php/about/declaratoria-de-interes-publico.html">–Declaratoria de interés público</option><option value="#">–Sobre UCCAEP &gt;</option><option value="https://www.uccaep.or.cr/index.php/about/sobre-uccaep/consejo-directivo.html">––Consejo Directivo</option><option value="https://www.uccaep.or.cr/index.php/about/sobre-uccaep/estatutos.html">––Estatutos</option><option value="https://www.uccaep.or.cr/index.php/about/sobre-uccaep/informe-de-labores.html">––Informe de labores</option><option value="https://www.uccaep.or.cr/index.php/about/sobre-uccaep/staff.html">––Staff</option><option value="https://www.uccaep.or.cr/index.php/about/sobre-uccaep/patrocinadores.html">––Patrocinadores</option><option value="https://www.uccaep.or.cr/index.php/about/sobre-uccaep/agendas-de-competitividad.html">––Agendas de competitividad</option><option value="https://www.uccaep.or.cr/index.php/about/camaras-asociadas.html" selected="selected">–Cámaras Asociadas</option><option value="https://www.uccaep.or.cr/index.php/about/uccaep-es-miembro-de.html">–UCCAEP es parte del BIAC y la OIE</option><option value="https://www.uccaep.or.cr/index.php/gallery.html">Pulso Empresarial Encuesta Trimestral</option><option value="https://www.uccaep.or.cr/index.php/comunicados-prensa.html">Comunicados de Prensa</option><option value="https://www.uccaep.or.cr/index.php/enlaces-de-interes.html">Enlaces de Interés</option><option value="https://www.uccaep.or.cr/index.php/contact-us.html">Contáctenos</option><option value="https://uccaepinforma.com/">UCCAEP Informa</option><option value="https://www.uccaep.or.cr/index.php/gan-costa-rica.html">GAN Costa Rica</option></select>
+
+<script type="text/javascript">
+	// initialise plugins
+	jQuery(function(){
+		jQuery('ul.sf-menu')
+			 
+		.superfish({
+			hoverClass:    'sfHover',         
+	    pathClass:     'overideThisToUse',
+	    pathLevels:    1,    
+	    delay:         500, 
+	    animation:     {opacity:'show', height:'show'}, 
+	    speed:         'normal',   
+	    speedOut:      'fast',   
+	    autoArrows:    false, 
+	    disableHI:     false, 
+	    useClick:      0,
+	    easing:        "swing",
+	    onInit:        function(){},
+	    onBeforeShow:  function(){},
+	    onShow:        function(){},
+	    onHide:        function(){},
+	    onIdle:        function(){}
+		});
+	});
+
+	jQuery(function(){
+		jQuery('.sf-menu').mobileMenu({
+			defaultText: 'Navigate to...',
+			className: 'select-menu',
+			subMenuClass: 'sub-menu'
+		});
+	})
+
+	jQuery(function(){
+		var ismobile = navigator.userAgent.match(/(iPhone)|(iPod)|(android)|(webOS)/i)
+		if(ismobile){
+			jQuery('.sf-menu').sftouchscreen({});
+		}
+	})
+</script></div>
+              </div>
+            </header>
+          </div>
+        </div>
+      </div>
+
+    <!-- Navigation -->
+    
+    <!-- Showcase -->
+    
+    <!-- Feature -->
+    
+
+    <!-- Maintop -->
+    
+    <!-- Main Content row -->
+    <div id="content-row">
+      <div class="row-container">
+        <div class="container-fluid">
+          <div class="content-inner row-fluid">
+        
+            <!-- Left sidebar -->
+                    
+            <div id="component" class="span12">
+              <!-- Breadcrumbs -->
+                              <div id="breadcrumbs-row">
+                  <div id="breadcrumbs">
+                    <div class="moduletable ">
+<ul class="breadcrumb ">
+<li class="active firstItem"><span class="divider"><i class="icon-location hasTooltip" title="" data-original-title="Está aquí: "></i></span></li><li><a href="https://www.uccaep.or.cr/index.php" class="pathway">Inicio</a><span class="divider">/</span></li><li></li><li><span>Quiénes Somos ||Conozca UCCAEP</span></li><li></li><li><span class="divider">/</span><span>Cámaras Asociadas</span></li><li class="lastItem"></li></ul>
+</div>
+                  </div>
+                </div>
+                      
+              <!-- Content-top -->
+                      
+                <div id="system-message-container">
+	</div>
+
+                <div class="page-blog page-blog__">
+
+	
+	
+	
+		
+
+						<div class="items-row cols-3 row-0 row-fluid">
+					<div class="span4">
+				<div class="item column-1">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/562-basc-costa-rica.html"> <span class="item_title_part0">Asociación</span> <span class="item_title_part1">Alianza</span> <span class="item_title_part2">Empresarial</span> <span class="item_title_part3">para</span> <span class="item_title_part4">el</span> <span class="item_title_part5">Comercio</span> <span class="item_title_part6">Seguro</span> <span class="item_title_part7">BASC</span> <span class="item_title_part8">COSTA</span> <span class="item_title_part9">RICA</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/logobasc2.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente: Alvaro Alpízar<br> Director Ejecutivo:&nbsp;Amadeo Acuña<br> Teléfono:&nbsp;2291-0310 / 2291-0317<br>Dirección Electrónica: <a href="mailto:mnavarro@codicr.com"></a><span id="cloak9f65771ea7cba5295376b2da60c219f2"><a href="mailto:basccostarica@wbasco.org">basccostarica@wbasco.org</a></span><script type="text/javascript">
+				document.getElementById('cloak9f65771ea7cba5295376b2da60c219f2').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy9f65771ea7cba5295376b2da60c219f2 = 'b&#97;scc&#111;st&#97;r&#105;c&#97;' + '&#64;';
+				addy9f65771ea7cba5295376b2da60c219f2 = addy9f65771ea7cba5295376b2da60c219f2 + 'wb&#97;sc&#111;' + '&#46;' + '&#111;rg';
+				var addy_text9f65771ea7cba5295376b2da60c219f2 = 'b&#97;scc&#111;st&#97;r&#105;c&#97;' + '&#64;' + 'wb&#97;sc&#111;' + '&#46;' + '&#111;rg';document.getElementById('cloak9f65771ea7cba5295376b2da60c219f2').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy9f65771ea7cba5295376b2da60c219f2 + '\'>'+addy_text9f65771ea7cba5295376b2da60c219f2+'<\/a>';
+		</script><br> Página Web: <a href="http://www.basc-costarica.com/"></a><span style="color: #3366ff;"><span style="color: #0000ff;"><a href="http://basc-costarica.com/"><span style="color: #0000ff;"></span></a></span></span><a href="http://basc-costarica.com/">http://basc-costarica.com/</a><br> Dirección:&nbsp;Sabana Sur, Oficentro Ejecutivo La Sabana, edificio 2, primer piso.</p>
+<p>&nbsp;</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+								<div class="span4">
+				<div class="item column-2">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/434-asociacion-bancaria-costarricense-a-b-c.html"> <span class="item_title_part0">Asociación</span> <span class="item_title_part1">Bancaria</span> <span class="item_title_part2">Costarricense</span> <span class="item_title_part3">(A.B.C.)</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/1.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente: Álvaro Saborío<br> Director Ejecutivo: María Isabel Cortés<br> Teléfono: 2253-28-89 / 2253-28-98<br> Apartado: 70810 - 1000 San José<br> Fax: 2225-09-87<br> Dirección Electrónica: <br> <span id="cloakbed30db0048cbda7833ded692210b853"><a href="mailto:ejecutiva@abc.fi.cr">ejecutiva@abc.fi.cr</a></span><script type="text/javascript">
+				document.getElementById('cloakbed30db0048cbda7833ded692210b853').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addybed30db0048cbda7833ded692210b853 = '&#101;j&#101;c&#117;t&#105;v&#97;' + '&#64;';
+				addybed30db0048cbda7833ded692210b853 = addybed30db0048cbda7833ded692210b853 + '&#97;bc' + '&#46;' + 'f&#105;' + '&#46;' + 'cr';
+				var addy_textbed30db0048cbda7833ded692210b853 = '&#101;j&#101;c&#117;t&#105;v&#97;' + '&#64;' + '&#97;bc' + '&#46;' + 'f&#105;' + '&#46;' + 'cr';document.getElementById('cloakbed30db0048cbda7833ded692210b853').innerHTML += '<a ' + path + '\'' + prefix + ':' + addybed30db0048cbda7833ded692210b853 + '\'>'+addy_textbed30db0048cbda7833ded692210b853+'<\/a>';
+		</script><br> Página Web: <a href="http://www.abc.fi.cr/" target="_blank">www.abc.fi.cr</a><br> Dirección: 300 este, 50 norte, 50 este, Antiguo ITAN, Zapote</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+								<div class="span4">
+				<div class="item column-3">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/294-camara-costarricense-de-la-construccion.html"> <span class="item_title_part0">Asociación</span> <span class="item_title_part1">Cámara</span> <span class="item_title_part2">Costarricense</span> <span class="item_title_part3">de</span> <span class="item_title_part4">la</span> <span class="item_title_part5">Construcción</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/Logo_CCC_nuevo-1.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente: Esteban Acón Rojas<br> Director Ejecutivo: Randall Murillo<br> Teléfono: 2545-4444<br> Apartado: 5260-1000 San José<br> Fax: 2545-4445<br> Dirección Electrónica: <span id="cloakb6f840b4f811949e86dd3433643fca88"><a href="mailto:camara@construccion.co.cr">camara@construccion.co.cr</a></span><script type="text/javascript">
+				document.getElementById('cloakb6f840b4f811949e86dd3433643fca88').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addyb6f840b4f811949e86dd3433643fca88 = 'c&#97;m&#97;r&#97;' + '&#64;';
+				addyb6f840b4f811949e86dd3433643fca88 = addyb6f840b4f811949e86dd3433643fca88 + 'c&#111;nstr&#117;cc&#105;&#111;n' + '&#46;' + 'c&#111;' + '&#46;' + 'cr';
+				var addy_textb6f840b4f811949e86dd3433643fca88 = 'c&#97;m&#97;r&#97;' + '&#64;' + 'c&#111;nstr&#117;cc&#105;&#111;n' + '&#46;' + 'c&#111;' + '&#46;' + 'cr';document.getElementById('cloakb6f840b4f811949e86dd3433643fca88').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyb6f840b4f811949e86dd3433643fca88 + '\'>'+addy_textb6f840b4f811949e86dd3433643fca88+'<\/a>';
+		</script> <br> Página Web: <a href="https://www.construccion.co.cr/">www.construccion.co.cr</a><br> Dirección: 75 metros Oeste del puente de Llorente de Tibás, sobre Ruta 32.</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+						
+		</div><!-- end row -->
+							<div class="items-row cols-3 row-1 row-fluid">
+					<div class="span4">
+				<div class="item column-1">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/423-asociacion-camara-costarricense-de-transportistas-unitarios.html"> <span class="item_title_part0">Asociación</span> <span class="item_title_part1">Cámara</span> <span class="item_title_part2">Costarricense</span> <span class="item_title_part3">de</span> <span class="item_title_part4">Transportistas</span> <span class="item_title_part5">Unitarios</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/cctucr.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente:&nbsp;Carlos Segura<br>Vicepresidencia y Dirección Ejecutiva: Marjorie Lizano<br> Teléfono: 2235-1758<br>Telefax: 2235-1758<br>Dirección electrónica: <span id="cloak470d15ad908187732bf530b38dd350b4"><a href="mailto:camara@cctucr.com">camara@cctucr.com</a></span><script type="text/javascript">
+				document.getElementById('cloak470d15ad908187732bf530b38dd350b4').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy470d15ad908187732bf530b38dd350b4 = 'c&#97;m&#97;r&#97;' + '&#64;';
+				addy470d15ad908187732bf530b38dd350b4 = addy470d15ad908187732bf530b38dd350b4 + 'cct&#117;cr' + '&#46;' + 'c&#111;m';
+				var addy_text470d15ad908187732bf530b38dd350b4 = 'c&#97;m&#97;r&#97;' + '&#64;' + 'cct&#117;cr' + '&#46;' + 'c&#111;m';document.getElementById('cloak470d15ad908187732bf530b38dd350b4').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy470d15ad908187732bf530b38dd350b4 + '\'>'+addy_text470d15ad908187732bf530b38dd350b4+'<\/a>';
+		</script><br>Dirección física: 800 metros oeste de la Municipalidad de Tibás</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+								<div class="span4">
+				<div class="item column-2">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/435-asociacion-camara-de-infocomunicacion-y-tecnologia-infocom.html"> <span class="item_title_part0">Asociación</span> <span class="item_title_part1">Cámara</span> <span class="item_title_part2">de</span> <span class="item_title_part3">Infocomunicación</span> <span class="item_title_part4">y</span> <span class="item_title_part5">Tecnología</span> <span class="item_title_part6">(INFOCOM)</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/Infocom.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidenta:&nbsp;Vanessa Castro<br> Directora Ejecutiva: Ana Lucía Ramírez<br> Teléfono: 2291-0176 / 2291-0163<br> Fax: 2291-0179.<br> Dirección Electrónica:&nbsp;<span id="cloake7fe967d84e99208c5f74e8111d6af64"><a href="mailto:aramirez@infocom.cr" target="_blank" rel="noopener noreferrer">aramirez@infocom.cr</a></span><script type="text/javascript">
+				document.getElementById('cloake7fe967d84e99208c5f74e8111d6af64').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addye7fe967d84e99208c5f74e8111d6af64 = '&#97;r&#97;m&#105;r&#101;z' + '&#64;';
+				addye7fe967d84e99208c5f74e8111d6af64 = addye7fe967d84e99208c5f74e8111d6af64 + '&#105;nf&#111;c&#111;m' + '&#46;' + 'cr';
+				var addy_texte7fe967d84e99208c5f74e8111d6af64 = '&#97;r&#97;m&#105;r&#101;z' + '&#64;' + '&#105;nf&#111;c&#111;m' + '&#46;' + 'cr';document.getElementById('cloake7fe967d84e99208c5f74e8111d6af64').innerHTML += '<a ' + path + '\'' + prefix + ':' + addye7fe967d84e99208c5f74e8111d6af64 + '\' target="_blank" rel="noopener noreferrer">'+addy_texte7fe967d84e99208c5f74e8111d6af64+'<\/a>';
+		</script><br> Página Web: <a href="http://www.infocom.cr/" target="_blank" rel="noopener noreferrer">www.infocom.cr</a><br> Dirección: Oficentro Ejecutivo La Sabana, Anexo de la Torre 6, Planta Baja, Oficina # 29</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+								<div class="span4">
+				<div class="item column-3">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/421-asociacion-comunidad-de-empresas-de-comunicacion-comercial-de-costa-rica.html"> <span class="item_title_part0">Asociación</span> <span class="item_title_part1">Comunidad</span> <span class="item_title_part2">de</span> <span class="item_title_part3">Empresas</span> <span class="item_title_part4">de</span> <span class="item_title_part5">Comunicación</span> <span class="item_title_part6">Comercial</span> <span class="item_title_part7">de</span> <span class="item_title_part8">Costa</span> <span class="item_title_part9">Rica</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/COMUNIDAD2017.BMP" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente:&nbsp;Mariam Bakit<br>Directora Ejecutiva:&nbsp;Amelia Solera<br> Teléfono: 6003-9875<br>Fax: 2284-9903<br>Dirección electrónica: <span id="cloakd67dcd174882606b158043bf040a4343"><a href="mailto:asolera@comunidad.cr">asolera@comunidad.cr</a></span><script type="text/javascript">
+				document.getElementById('cloakd67dcd174882606b158043bf040a4343').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addyd67dcd174882606b158043bf040a4343 = '&#97;s&#111;l&#101;r&#97;' + '&#64;';
+				addyd67dcd174882606b158043bf040a4343 = addyd67dcd174882606b158043bf040a4343 + 'c&#111;m&#117;n&#105;d&#97;d' + '&#46;' + 'cr';
+				var addy_textd67dcd174882606b158043bf040a4343 = '&#97;s&#111;l&#101;r&#97;' + '&#64;' + 'c&#111;m&#117;n&#105;d&#97;d' + '&#46;' + 'cr';document.getElementById('cloakd67dcd174882606b158043bf040a4343').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyd67dcd174882606b158043bf040a4343 + '\'>'+addy_textd67dcd174882606b158043bf040a4343+'<\/a>';
+		</script><br>Pagina web: <a href="http://www.comunidad.cr/">www.comunidad.cr</a><br>Dirección física: Agencia Garnier, Barrio Tournón, diagonal a la Cámara de Comercio.</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+						
+		</div><!-- end row -->
+							<div class="items-row cols-3 row-2 row-fluid">
+					<div class="span4">
+				<div class="item column-1">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/564-acacia.html"> <span class="item_title_part0">Asociación</span> <span class="item_title_part1">Costarricense</span> <span class="item_title_part2">de</span> <span class="item_title_part3">Agencias</span> <span class="item_title_part4">de</span> <span class="item_title_part5">Carga</span> <span class="item_title_part6">y</span> <span class="item_title_part7">Logística</span> <span class="item_title_part8">Internacional</span> <span class="item_title_part9">(ACACIA)</span> <span class="item_title_part10"></span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/Logo-Acacia.png" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente: Luis Felipe Zamora&nbsp;<br>Asistente&nbsp;Ejecutiva: Nancy Quesada Aguirre<br> Teléfono: 4001-4366<br>Dirección Electrónica: <span id="cloake97c656b711cf4f86ede2d6748a3c571"><a href="mailto:acacia@acacia.co.cr">acacia@acacia.co.cr</a></span><script type="text/javascript">
+				document.getElementById('cloake97c656b711cf4f86ede2d6748a3c571').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addye97c656b711cf4f86ede2d6748a3c571 = '&#97;c&#97;c&#105;&#97;' + '&#64;';
+				addye97c656b711cf4f86ede2d6748a3c571 = addye97c656b711cf4f86ede2d6748a3c571 + '&#97;c&#97;c&#105;&#97;' + '&#46;' + 'c&#111;' + '&#46;' + 'cr';
+				var addy_texte97c656b711cf4f86ede2d6748a3c571 = '&#97;c&#97;c&#105;&#97;' + '&#64;' + '&#97;c&#97;c&#105;&#97;' + '&#46;' + 'c&#111;' + '&#46;' + 'cr';document.getElementById('cloake97c656b711cf4f86ede2d6748a3c571').innerHTML += '<a ' + path + '\'' + prefix + ':' + addye97c656b711cf4f86ede2d6748a3c571 + '\'>'+addy_texte97c656b711cf4f86ede2d6748a3c571+'<\/a>';
+		</script><br> Página Web: <a href="http://www.acacia.co.cr/">www.acacia.co.cr</a><br> Dirección:&nbsp;Heredia, San Antonio de Belén, de la Ferretería EPA 250 oeste y 125 norte, complejo de oficinas de Multimodal.</p>
+<p>&nbsp;</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+								<div class="span4">
+				<div class="item column-2">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/424-asociacion-costarricense-de-facultades-y-escuelas-de-medicina.html"> <span class="item_title_part0">Asociación</span> <span class="item_title_part1">Costarricense</span> <span class="item_title_part2">de</span> <span class="item_title_part3">Facultades</span> <span class="item_title_part4">y</span> <span class="item_title_part5">Escuelas</span> <span class="item_title_part6">de</span> <span class="item_title_part7">Medicina</span> <span class="item_title_part8">(ACOFEMED)</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/acofemed.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente: Federico Malavassi<br> Teléfono:&nbsp;2234-1659<br>Dirección electrónica: <span id="cloake064638edf0ea12a1901ccfa6fe0cb63"><a href="mailto:acofemed@hotmail.com">acofemed@hotmail.com</a></span><script type="text/javascript">
+				document.getElementById('cloake064638edf0ea12a1901ccfa6fe0cb63').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addye064638edf0ea12a1901ccfa6fe0cb63 = '&#97;c&#111;f&#101;m&#101;d' + '&#64;';
+				addye064638edf0ea12a1901ccfa6fe0cb63 = addye064638edf0ea12a1901ccfa6fe0cb63 + 'h&#111;tm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+				var addy_texte064638edf0ea12a1901ccfa6fe0cb63 = '&#97;c&#111;f&#101;m&#101;d' + '&#64;' + 'h&#111;tm&#97;&#105;l' + '&#46;' + 'c&#111;m';document.getElementById('cloake064638edf0ea12a1901ccfa6fe0cb63').innerHTML += '<a ' + path + '\'' + prefix + ':' + addye064638edf0ea12a1901ccfa6fe0cb63 + '\'>'+addy_texte064638edf0ea12a1901ccfa6fe0cb63+'<\/a>';
+		</script><br>Dirección física: Curridabat, Urbanización José María Zeledón, 10 metros de la esquina noreste de la plaza de deportes.</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+								<div class="span4">
+				<div class="item column-3">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/439-asociacion-costarricense-de-grandes-consumidores-de-electricidad.html"> <span class="item_title_part0">Asociación</span> <span class="item_title_part1">Costarricense</span> <span class="item_title_part2">de</span> <span class="item_title_part3">Grandes</span> <span class="item_title_part4">Consumidores</span> <span class="item_title_part5">de</span> <span class="item_title_part6">Energía</span> <span class="item_title_part7">(ACOGRACE)</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/6.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente: Federico Rivera Ramírez<br> Director Ejecutivo: Carlos Roldán<br> Teléfono: 2202-5600<br> Apartado: 10003-1000 San José<br> Fax: 2234-6163<br> Dirección Electrónica: <span id="cloak2a103165ea86cc6922ebac0f5bc7679e"><a href="mailto:dejecutiva@acograce.com">dejecutiva@acograce.com</a></span><script type="text/javascript">
+				document.getElementById('cloak2a103165ea86cc6922ebac0f5bc7679e').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy2a103165ea86cc6922ebac0f5bc7679e = 'd&#101;j&#101;c&#117;t&#105;v&#97;' + '&#64;';
+				addy2a103165ea86cc6922ebac0f5bc7679e = addy2a103165ea86cc6922ebac0f5bc7679e + '&#97;c&#111;gr&#97;c&#101;' + '&#46;' + 'c&#111;m';
+				var addy_text2a103165ea86cc6922ebac0f5bc7679e = 'd&#101;j&#101;c&#117;t&#105;v&#97;' + '&#64;' + '&#97;c&#111;gr&#97;c&#101;' + '&#46;' + 'c&#111;m';document.getElementById('cloak2a103165ea86cc6922ebac0f5bc7679e').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy2a103165ea86cc6922ebac0f5bc7679e + '\'>'+addy_text2a103165ea86cc6922ebac0f5bc7679e+'<\/a>';
+		</script> <br> Dirección: ICE San Pedro 50 mts sur, edificio color azul, Cámara de Industrias</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+						
+		</div><!-- end row -->
+							<div class="items-row cols-3 row-3 row-fluid">
+					<div class="span4">
+				<div class="item column-1">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/305-asociacion-costarricense-de-la-industria-del-plastico-aciplast.html"> <span class="item_title_part0">Asociación</span> <span class="item_title_part1">Costarricense</span> <span class="item_title_part2">de</span> <span class="item_title_part3">la</span> <span class="item_title_part4">Industria</span> <span class="item_title_part5">del</span> <span class="item_title_part6">Plástico</span> <span class="item_title_part7">(ACIPLAST)</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/ACIPLAST.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente: Jaime Cerdas<br> Directora Ejecutiva: Angie Ramírez&nbsp;&nbsp;<br> Teléfono: 2202-5637 /&nbsp;2281-0006 ext. 137<br> Apartado: 8247-1000 San José<br> Fax: 2234-8307<br> Dirección Electrónica: <a href="http://www.aciplast.org/" target="_blank" rel="noopener">www.aciplast.org</a><br> Dirección: San Pedro, 350mts sur de la fuente de la Hispanidad, edificio de la Cámara de Industrias, cuarto piso.</p>
+<p>-----------------------------------------------</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+								<div class="span4">
+				<div class="item column-2">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/302-asociacion-costarricense-de-productores-de-energia-acope.html"> <span class="item_title_part0">Asociación</span> <span class="item_title_part1">Costarricense</span> <span class="item_title_part2">de</span> <span class="item_title_part3">Productores</span> <span class="item_title_part4">de</span> <span class="item_title_part5">Energía</span> <span class="item_title_part6">(ACOPE)</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/Acopenuevo.png" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente: Salomón Lechtman<br> Director Ejecutivo: Mario Alvarado Mora<br> Teléfono: 2258-4141 / 2221-3148 / 2258-4135<br> Apartado: 270-1007 Centro Colón<br> Fax: 2258-4136<br> Dirección Electrónica: <span id="cloak307134124dc71e176d5077c96ff49afc"><a href="mailto:acope@acope.com">acope@acope.com</a></span><script type="text/javascript">
+				document.getElementById('cloak307134124dc71e176d5077c96ff49afc').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy307134124dc71e176d5077c96ff49afc = '&#97;c&#111;p&#101;' + '&#64;';
+				addy307134124dc71e176d5077c96ff49afc = addy307134124dc71e176d5077c96ff49afc + '&#97;c&#111;p&#101;' + '&#46;' + 'c&#111;m';
+				var addy_text307134124dc71e176d5077c96ff49afc = '&#97;c&#111;p&#101;' + '&#64;' + '&#97;c&#111;p&#101;' + '&#46;' + 'c&#111;m';document.getElementById('cloak307134124dc71e176d5077c96ff49afc').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy307134124dc71e176d5077c96ff49afc + '\'>'+addy_text307134124dc71e176d5077c96ff49afc+'<\/a>';
+		</script><br> Dirección: Centro Colón, 5to. Piso, Oficina No.2</p>
+<p>-----------------------------------------------</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+								<div class="span4">
+				<div class="item column-3">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/441-asociacion-de-aseguradoras-privadas-de-costa-rica-aap.html"> <span class="item_title_part0">Asociación</span> <span class="item_title_part1">de</span> <span class="item_title_part2">Aseguradoras</span> <span class="item_title_part3">Privadas</span> <span class="item_title_part4">de</span> <span class="item_title_part5">Costa</span> <span class="item_title_part6">Rica</span> <span class="item_title_part7">(AAP)</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/aap.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><div>Presidente: Giancarlo Caamaño&nbsp;</div>
+<div><span>Dirección Ejecutiva: Norma Montero</span></div>
+<div><span>Teléfono: 2520-1990</span></div>
+<div><span>Dirección Electrónica: <span id="cloaka6567527aa3a116226521e0ea943ed10"><a href="mailto:info@aap.cr">info@aap.cr</a></span><script type="text/javascript">
+				document.getElementById('cloaka6567527aa3a116226521e0ea943ed10').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addya6567527aa3a116226521e0ea943ed10 = '&#105;nf&#111;' + '&#64;';
+				addya6567527aa3a116226521e0ea943ed10 = addya6567527aa3a116226521e0ea943ed10 + '&#97;&#97;p' + '&#46;' + 'cr';
+				var addy_texta6567527aa3a116226521e0ea943ed10 = '&#105;nf&#111;' + '&#64;' + '&#97;&#97;p' + '&#46;' + 'cr';document.getElementById('cloaka6567527aa3a116226521e0ea943ed10').innerHTML += '<a ' + path + '\'' + prefix + ':' + addya6567527aa3a116226521e0ea943ed10 + '\'>'+addy_texta6567527aa3a116226521e0ea943ed10+'<\/a>';
+		</script></span></div>
+<div>Página Web: <a href="http://www.aap.cr/">www.aap.cr</a></div>
+<div>Dirección Física: De Prisma Dental en el Boulevar de Rohrmoser, 100 metros sur y 100 metros oeste, Centro Corporativo Nunciatura, segundo piso.</div> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+						
+		</div><!-- end row -->
+							<div class="items-row cols-3 row-4 row-fluid">
+					<div class="span4">
+				<div class="item column-1">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/401-camara-de-comercio-de-costa-rica.html"> <span class="item_title_part0">Asociación</span> <span class="item_title_part1">de</span> <span class="item_title_part2">Centros</span> <span class="item_title_part3">Educativos</span> <span class="item_title_part4">Privados</span> <span class="item_title_part5">(ACEP)</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/ACEP.png" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidenta: Dra. Giselle Betancourt Plascencia&nbsp;<br> Director Ejecutivo: Bernardo Ferreto<br>Dirección Electrónica: <span id="cloakf831a291c311584333e7f2a01867ae75"><a href="mailto:administrador@acep.or.cr">administrador@acep.or.cr</a></span><script type="text/javascript">
+				document.getElementById('cloakf831a291c311584333e7f2a01867ae75').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addyf831a291c311584333e7f2a01867ae75 = '&#97;dm&#105;n&#105;str&#97;d&#111;r' + '&#64;';
+				addyf831a291c311584333e7f2a01867ae75 = addyf831a291c311584333e7f2a01867ae75 + '&#97;c&#101;p' + '&#46;' + '&#111;r' + '&#46;' + 'cr';
+				var addy_textf831a291c311584333e7f2a01867ae75 = '&#97;dm&#105;n&#105;str&#97;d&#111;r' + '&#64;' + '&#97;c&#101;p' + '&#46;' + '&#111;r' + '&#46;' + 'cr';document.getElementById('cloakf831a291c311584333e7f2a01867ae75').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyf831a291c311584333e7f2a01867ae75 + '\'>'+addy_textf831a291c311584333e7f2a01867ae75+'<\/a>';
+		</script>&nbsp;<br>Sitio Web:&nbsp;<a href="https://acep.or.cr/">https://acep.or.cr/</a>&nbsp;</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+								<div class="span4">
+				<div class="item column-2">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/304-asociacion-de-empresarios-colombianos-en-costa-rica.html"> <span class="item_title_part0">Asociación</span> <span class="item_title_part1">de</span> <span class="item_title_part2">Empresarios</span> <span class="item_title_part3">Colombianos</span> <span class="item_title_part4">en</span> <span class="item_title_part5">Costa</span> <span class="item_title_part6">Rica</span> <span class="item_title_part7">(AECOL)</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/9.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente: Santiago Vélez De Bedout<br> Director Ejecutivo: Hernando Hincapié&nbsp;<br> Teléfono: 2582-1463<br>Dirección Electrónica: <a href="mailto:hhincapie@aecolcr.com"></a><span id="cloakf52ac5c4357564fcd00ba6fb284ebcfe"><a href="mailto:h.hincapie@aecol.cr">h.hincapie@aecol.cr</a></span><script type="text/javascript">
+				document.getElementById('cloakf52ac5c4357564fcd00ba6fb284ebcfe').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addyf52ac5c4357564fcd00ba6fb284ebcfe = 'h.h&#105;nc&#97;p&#105;&#101;' + '&#64;';
+				addyf52ac5c4357564fcd00ba6fb284ebcfe = addyf52ac5c4357564fcd00ba6fb284ebcfe + '&#97;&#101;c&#111;l' + '&#46;' + 'cr';
+				var addy_textf52ac5c4357564fcd00ba6fb284ebcfe = 'h.h&#105;nc&#97;p&#105;&#101;' + '&#64;' + '&#97;&#101;c&#111;l' + '&#46;' + 'cr';document.getElementById('cloakf52ac5c4357564fcd00ba6fb284ebcfe').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyf52ac5c4357564fcd00ba6fb284ebcfe + '\'>'+addy_textf52ac5c4357564fcd00ba6fb284ebcfe+'<\/a>';
+		</script><br> Página Web: <a href="http://www.aecol.cr/">http://www.aecol.cr</a><br> Dirección:&nbsp;Santa Ana, de la Cruz Roja 100 oeste, edificio Arbórea, Co-Working The Train.</p>
+<p>-----------------------------------------------</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+								<div class="span4">
+				<div class="item column-3">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/300-asociacion-de-zonas-francas-de-costa-rica.html"> <span class="item_title_part0">Asociación</span> <span class="item_title_part1">de</span> <span class="item_title_part2">Empresas</span> <span class="item_title_part3">de</span> <span class="item_title_part4">Zonas</span> <span class="item_title_part5">Francas</span> <span class="item_title_part6">de</span> <span class="item_title_part7">Costa</span> <span class="item_title_part8">Rica</span> <span class="item_title_part9">(AZOFRAS)</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/AZOFRAS_2019.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente: Carlos Jonfai Wong Zuñiga<br> Director Ejecutivo: Eugenio Quirós Benambourg<span style="font-size: 11pt; font-family: Calibri, sans-serif;"></span><br> Teléfono: +(506) 4034-9897 / 4034-8785<br>Dirección Electrónica: <span id="cloak1fe83d8c4f4b82eb110f313f2f0fb40a"><a href="mailto:azofras@racsa.co.cr">azofras@racsa.co.cr</a></span><script type="text/javascript">
+				document.getElementById('cloak1fe83d8c4f4b82eb110f313f2f0fb40a').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy1fe83d8c4f4b82eb110f313f2f0fb40a = '&#97;z&#111;fr&#97;s' + '&#64;';
+				addy1fe83d8c4f4b82eb110f313f2f0fb40a = addy1fe83d8c4f4b82eb110f313f2f0fb40a + 'r&#97;cs&#97;' + '&#46;' + 'c&#111;' + '&#46;' + 'cr';
+				var addy_text1fe83d8c4f4b82eb110f313f2f0fb40a = '&#97;z&#111;fr&#97;s' + '&#64;' + 'r&#97;cs&#97;' + '&#46;' + 'c&#111;' + '&#46;' + 'cr';document.getElementById('cloak1fe83d8c4f4b82eb110f313f2f0fb40a').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy1fe83d8c4f4b82eb110f313f2f0fb40a + '\'>'+addy_text1fe83d8c4f4b82eb110f313f2f0fb40a+'<\/a>';
+		</script> <br> Página Web: <a href="http://www.azofras.com/">www.azofras.com</a><br> Dirección: San Rafael de Escazú, calle La Ceiba,&nbsp;Centro Corporativo ATRIUM, cuarto piso.</p>
+<p>-----------------------------------------------</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+						
+		</div><!-- end row -->
+							<div class="items-row cols-3 row-5 row-fluid">
+					<div class="span4">
+				<div class="item column-1">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/301-asociacion-de-importadores-de-vehiculos-y-maquinaria-aivema.html"> <span class="item_title_part0">Asociación</span> <span class="item_title_part1">de</span> <span class="item_title_part2">Importadores</span> <span class="item_title_part3">de</span> <span class="item_title_part4">Vehículos</span> <span class="item_title_part5">y</span> <span class="item_title_part6">Maquinaria</span> <span class="item_title_part7">(AIVEMA)</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/10.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente: Óscar Echeverría <br> Director Ejecutivo: Lilliana Aguilar<br> Teléfono: 2201-5703 / 2201-5704<br> Apartado: 84040 - 1000 San José<br> Fax: 2201-5706<br> Dirección Electrónica: <span id="cloakd46ff7146948e956061b36acf6337c26"><a href="mailto:aivema@racsa.co.cr">aivema@racsa.co.cr</a></span><script type="text/javascript">
+				document.getElementById('cloakd46ff7146948e956061b36acf6337c26').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addyd46ff7146948e956061b36acf6337c26 = '&#97;&#105;v&#101;m&#97;' + '&#64;';
+				addyd46ff7146948e956061b36acf6337c26 = addyd46ff7146948e956061b36acf6337c26 + 'r&#97;cs&#97;' + '&#46;' + 'c&#111;' + '&#46;' + 'cr';
+				var addy_textd46ff7146948e956061b36acf6337c26 = '&#97;&#105;v&#101;m&#97;' + '&#64;' + 'r&#97;cs&#97;' + '&#46;' + 'c&#111;' + '&#46;' + 'cr';document.getElementById('cloakd46ff7146948e956061b36acf6337c26').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyd46ff7146948e956061b36acf6337c26 + '\'>'+addy_textd46ff7146948e956061b36acf6337c26+'<\/a>';
+		</script> <br> Dirección: Guachipelín de Escazú, edificio Meridiano, primer piso</p>
+<p>-----------------------------------------------</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+								<div class="span4">
+				<div class="item column-2">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/299-asociacion-nacional-de-exportadores-de-la-industria-textil.html"> <span class="item_title_part0">Asociación</span> <span class="item_title_part1">Nacional</span> <span class="item_title_part2">de</span> <span class="item_title_part3">Exportadores</span> <span class="item_title_part4">de</span> <span class="item_title_part5">la</span> <span class="item_title_part6">Industria</span> <span class="item_title_part7">Textil</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/12.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente: Miguel Schyfter L.<br> Director Ejecutivo: Annia Segura<br> Teléfono: 2290-5053<br> Apartado: 5835-1000<br> Fax: 2290-7374 / 2232-4567<br> Dirección Electrónica: <span id="cloak2a8aa279d7957e0ff098a508b4ed6056"><a href="mailto:cuotas@ice.co.cr">cuotas@ice.co.cr</a></span><script type="text/javascript">
+				document.getElementById('cloak2a8aa279d7957e0ff098a508b4ed6056').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy2a8aa279d7957e0ff098a508b4ed6056 = 'c&#117;&#111;t&#97;s' + '&#64;';
+				addy2a8aa279d7957e0ff098a508b4ed6056 = addy2a8aa279d7957e0ff098a508b4ed6056 + '&#105;c&#101;' + '&#46;' + 'c&#111;' + '&#46;' + 'cr';
+				var addy_text2a8aa279d7957e0ff098a508b4ed6056 = 'c&#117;&#111;t&#97;s' + '&#64;' + '&#105;c&#101;' + '&#46;' + 'c&#111;' + '&#46;' + 'cr';document.getElementById('cloak2a8aa279d7957e0ff098a508b4ed6056').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy2a8aa279d7957e0ff098a508b4ed6056 + '\'>'+addy_text2a8aa279d7957e0ff098a508b4ed6056+'<\/a>';
+		</script><br> Página Web: <a href="http://www.textilescr.com/">www.textilescr.com</a><br> Dirección: Oficentro la Sabana, Torre 7, segundo piso&nbsp;</p>
+<p>-----------------------------------------------</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+								<div class="span4">
+				<div class="item column-3">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/510-asociacion-unidad-de-rectores-de-las-universidades-privadas-de-costa-rica-unire.html"> <span class="item_title_part0">Asociación</span> <span class="item_title_part1">Unidad</span> <span class="item_title_part2">de</span> <span class="item_title_part3">Rectores</span> <span class="item_title_part4">de</span> <span class="item_title_part5">las</span> <span class="item_title_part6">Universidades</span> <span class="item_title_part7">Privadas</span> <span class="item_title_part8">de</span> <span class="item_title_part9">Costa</span> <span class="item_title_part10">Rica</span> <span class="item_title_part11">(UNIRE)</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/UnireLogo.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente: Rosa Monge<br>Director Ejecutivo:&nbsp;<br>Teléfono: 2524-2441<br>Fax: 2524-2440<br>Dirección Electrónica: <span id="cloak8ceccf190bed5ef85d78c637e856bfd8"><a href="mailto:directorejecutivo@unire.or.cr">directorejecutivo@unire.or.cr</a></span><script type="text/javascript">
+				document.getElementById('cloak8ceccf190bed5ef85d78c637e856bfd8').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy8ceccf190bed5ef85d78c637e856bfd8 = 'd&#105;r&#101;ct&#111;r&#101;j&#101;c&#117;t&#105;v&#111;' + '&#64;';
+				addy8ceccf190bed5ef85d78c637e856bfd8 = addy8ceccf190bed5ef85d78c637e856bfd8 + '&#117;n&#105;r&#101;' + '&#46;' + '&#111;r' + '&#46;' + 'cr';
+				var addy_text8ceccf190bed5ef85d78c637e856bfd8 = 'd&#105;r&#101;ct&#111;r&#101;j&#101;c&#117;t&#105;v&#111;' + '&#64;' + '&#117;n&#105;r&#101;' + '&#46;' + '&#111;r' + '&#46;' + 'cr';document.getElementById('cloak8ceccf190bed5ef85d78c637e856bfd8').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy8ceccf190bed5ef85d78c637e856bfd8 + '\'>'+addy_text8ceccf190bed5ef85d78c637e856bfd8+'<\/a>';
+		</script><br>Página Web: <a href="http://www.unire.or.cr/">www.unire.or.cr</a><br>Dirección: Barrio Escalante, de la Rotonda El Farolito 100 metros este y 75 metros norte.</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+						
+		</div><!-- end row -->
+							<div class="items-row cols-3 row-6 row-fluid">
+					<div class="span4">
+				<div class="item column-1">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/296-camara-costarricense-de-empresas-de-factoreo.html"> <span class="item_title_part0">Cámara</span> <span class="item_title_part1">Costarricense</span> <span class="item_title_part2">de</span> <span class="item_title_part3">Empresas</span> <span class="item_title_part4">de</span> <span class="item_title_part5">Factoreo</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/13.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente:&nbsp;José Ricardo Salazar MIranda<br> Directora Ejecutiva: Evelyn Wallace Montero<br> Teléfono: 2224-7116<br> Apartado: 2049-1002<br> Fax: 2233-0893<br> Dirección Electrónica: <span id="cloak4fed86df9ab2219f9c0a3129d9a6ea9e"><a href="mailto:ewallace@factoreo.co.cr">ewallace@factoreo.co.cr</a></span><script type="text/javascript">
+				document.getElementById('cloak4fed86df9ab2219f9c0a3129d9a6ea9e').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy4fed86df9ab2219f9c0a3129d9a6ea9e = '&#101;w&#97;ll&#97;c&#101;' + '&#64;';
+				addy4fed86df9ab2219f9c0a3129d9a6ea9e = addy4fed86df9ab2219f9c0a3129d9a6ea9e + 'f&#97;ct&#111;r&#101;&#111;' + '&#46;' + 'c&#111;' + '&#46;' + 'cr';
+				var addy_text4fed86df9ab2219f9c0a3129d9a6ea9e = '&#101;w&#97;ll&#97;c&#101;' + '&#64;' + 'f&#97;ct&#111;r&#101;&#111;' + '&#46;' + 'c&#111;' + '&#46;' + 'cr';document.getElementById('cloak4fed86df9ab2219f9c0a3129d9a6ea9e').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy4fed86df9ab2219f9c0a3129d9a6ea9e + '\'>'+addy_text4fed86df9ab2219f9c0a3129d9a6ea9e+'<\/a>';
+		</script>&nbsp;|| <a href="mailto:erojas@factoreo.co.cr">i</a><span id="cloak02d908ee0219c0c32ddee9aef8abe451"><a href="mailto:nfo@factoreo.co.cr">nfo@factoreo.co.cr</a></span><script type="text/javascript">
+				document.getElementById('cloak02d908ee0219c0c32ddee9aef8abe451').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy02d908ee0219c0c32ddee9aef8abe451 = 'nf&#111;' + '&#64;';
+				addy02d908ee0219c0c32ddee9aef8abe451 = addy02d908ee0219c0c32ddee9aef8abe451 + 'f&#97;ct&#111;r&#101;&#111;' + '&#46;' + 'c&#111;' + '&#46;' + 'cr';
+				var addy_text02d908ee0219c0c32ddee9aef8abe451 = 'nf&#111;' + '&#64;' + 'f&#97;ct&#111;r&#101;&#111;' + '&#46;' + 'c&#111;' + '&#46;' + 'cr';document.getElementById('cloak02d908ee0219c0c32ddee9aef8abe451').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy02d908ee0219c0c32ddee9aef8abe451 + '\'>'+addy_text02d908ee0219c0c32ddee9aef8abe451+'<\/a>';
+		</script>&nbsp;<br> Página Web: <a href="http://www.factoreo.co.cr/" target="_blank" rel="noopener">www.factoreo.co.cr</a><br> Dirección:&nbsp;100m este Rotonda Betania, carretera a Sabanilla, Mercedes de Montes de Oca</p>
+<p>-----------------------------------------------</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+								<div class="span4">
+				<div class="item column-2">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/298-camara-costarricense-de-hoteles.html"> <span class="item_title_part0">Cámara</span> <span class="item_title_part1">Costarricense</span> <span class="item_title_part2">de</span> <span class="item_title_part3">Hoteles</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/LOGO_CCH.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente: Javier Pacheco<br> Directora Ejecutiva: Flora Ayub<br> Teléfono: 2220-0575<br> Apartado: 8422-1000 San José<br> Fax: 2220-1116<br> Dirección Electrónica: <span id="cloak89e246332d025adcfcf53f21180cb09d"><a href="mailto:info@camaradehoteles.com">info@camaradehoteles.com</a></span><script type="text/javascript">
+				document.getElementById('cloak89e246332d025adcfcf53f21180cb09d').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy89e246332d025adcfcf53f21180cb09d = '&#105;nf&#111;' + '&#64;';
+				addy89e246332d025adcfcf53f21180cb09d = addy89e246332d025adcfcf53f21180cb09d + 'c&#97;m&#97;r&#97;d&#101;h&#111;t&#101;l&#101;s' + '&#46;' + 'c&#111;m';
+				var addy_text89e246332d025adcfcf53f21180cb09d = '&#105;nf&#111;' + '&#64;' + 'c&#97;m&#97;r&#97;d&#101;h&#111;t&#101;l&#101;s' + '&#46;' + 'c&#111;m';document.getElementById('cloak89e246332d025adcfcf53f21180cb09d').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy89e246332d025adcfcf53f21180cb09d + '\'>'+addy_text89e246332d025adcfcf53f21180cb09d+'<\/a>';
+		</script> || <span id="cloakcadcd1716b58b400d2c39ee22196b9bc"><a href="mailto:cbarboza@camaradehoteles.com">cbarboza@camaradehoteles.com</a></span><script type="text/javascript">
+				document.getElementById('cloakcadcd1716b58b400d2c39ee22196b9bc').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addycadcd1716b58b400d2c39ee22196b9bc = 'cb&#97;rb&#111;z&#97;' + '&#64;';
+				addycadcd1716b58b400d2c39ee22196b9bc = addycadcd1716b58b400d2c39ee22196b9bc + 'c&#97;m&#97;r&#97;d&#101;h&#111;t&#101;l&#101;s' + '&#46;' + 'c&#111;m';
+				var addy_textcadcd1716b58b400d2c39ee22196b9bc = 'cb&#97;rb&#111;z&#97;' + '&#64;' + 'c&#97;m&#97;r&#97;d&#101;h&#111;t&#101;l&#101;s' + '&#46;' + 'c&#111;m';document.getElementById('cloakcadcd1716b58b400d2c39ee22196b9bc').innerHTML += '<a ' + path + '\'' + prefix + ':' + addycadcd1716b58b400d2c39ee22196b9bc + '\'>'+addy_textcadcd1716b58b400d2c39ee22196b9bc+'<\/a>';
+		</script><br> Página Web: <a href="https://www.uccaep.or.cr/www.camaradehoteles.com" target="_blank">www.camaradehoteles.com</a><br> Dirección:&nbsp;Oficentro Galerias Rohrmoser, 2do piso, local #26. Costado Este Plaza Mayor, Rohrmoser, San José, Costa Rica.</p>
+<p>-----------------------------------------------</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+								<div class="span4">
+				<div class="item column-3">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/295-camara-costarricense-de-importadores-de-graneles-cacigra.html"> <span class="item_title_part0">Cámara</span> <span class="item_title_part1">Costarricense</span> <span class="item_title_part2">de</span> <span class="item_title_part3">Importadores</span> <span class="item_title_part4">de</span> <span class="item_title_part5">Graneles</span> <span class="item_title_part6">(CACIGRA)</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/15.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente: José Alvarado Alfaro<br> Director Ejecutivo:&nbsp;Ing. Roberto Obando Cabezas</p>
+<p>correo electrónico: <span id="cloak84f1c87497ea835d3bb388b942be182c"><a href="mailto:obandocr@ciabcr.com">obandocr@ciabcr.com</a></span><script type="text/javascript">
+				document.getElementById('cloak84f1c87497ea835d3bb388b942be182c').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy84f1c87497ea835d3bb388b942be182c = '&#111;b&#97;nd&#111;cr' + '&#64;';
+				addy84f1c87497ea835d3bb388b942be182c = addy84f1c87497ea835d3bb388b942be182c + 'c&#105;&#97;bcr' + '&#46;' + 'c&#111;m';
+				var addy_text84f1c87497ea835d3bb388b942be182c = '&#111;b&#97;nd&#111;cr' + '&#64;' + 'c&#105;&#97;bcr' + '&#46;' + 'c&#111;m';document.getElementById('cloak84f1c87497ea835d3bb388b942be182c').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy84f1c87497ea835d3bb388b942be182c + '\'>'+addy_text84f1c87497ea835d3bb388b942be182c+'<\/a>';
+		</script>&nbsp;<br> Teléfono: 2293-6211<br> Apartado: 794-4005 Heredia, Belén.<br> Fax: 2293-0191<br> Dirección Física: San Rafael de Alajuela, 150 metros oeste de Panasonic.</p>
+<p>-----------------------------------------------</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+						
+		</div><!-- end row -->
+							<div class="items-row cols-3 row-7 row-fluid">
+					<div class="span4">
+				<div class="item column-1">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/397-camara-costarricense-de-la-industria-alimentaria-cacia.html"> <span class="item_title_part0">Cámara</span> <span class="item_title_part1">Costarricense</span> <span class="item_title_part2">de</span> <span class="item_title_part3">la</span> <span class="item_title_part4">Industria</span> <span class="item_title_part5">Alimentaria</span> <span class="item_title_part6">(CACIA)</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/17.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente:&nbsp;Maurizio Musmanni<br>Director Ejecutivo: Mario Montero<br>Teléfono: 2220-3031<br>Apartado: 7097-1000 San José<br>Fax: 2220-3070<br>Dirección Electrónica: <span id="cloak18cef16641ac80559e94a7506bbe5220"><a href="mailto:cacia@cacia.org">cacia@cacia.org</a></span><script type="text/javascript">
+				document.getElementById('cloak18cef16641ac80559e94a7506bbe5220').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy18cef16641ac80559e94a7506bbe5220 = 'c&#97;c&#105;&#97;' + '&#64;';
+				addy18cef16641ac80559e94a7506bbe5220 = addy18cef16641ac80559e94a7506bbe5220 + 'c&#97;c&#105;&#97;' + '&#46;' + '&#111;rg';
+				var addy_text18cef16641ac80559e94a7506bbe5220 = 'c&#97;c&#105;&#97;' + '&#64;' + 'c&#97;c&#105;&#97;' + '&#46;' + '&#111;rg';document.getElementById('cloak18cef16641ac80559e94a7506bbe5220').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy18cef16641ac80559e94a7506bbe5220 + '\'>'+addy_text18cef16641ac80559e94a7506bbe5220+'<\/a>';
+		</script><br>Página Web: www.cacia.org<br>Dirección: Sabana norte de la esquina del ICE 150 metros norte, Centro Comercial ubicado frente al Colegio los Angeles</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+								<div class="span4">
+				<div class="item column-2">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/437-asociacion-consejo-para-la-promocion-internacional-de-la-medicina-de-costa-rica-promed.html"> <span class="item_title_part0">Cámara</span> <span class="item_title_part1">Costarricense</span> <span class="item_title_part2">de</span> <span class="item_title_part3">la</span> <span class="item_title_part4">Salud</span> <span class="item_title_part5">(PROMED)</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/PROMED.BMP" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente: Efraín Monge<br> Director Ejecutivo: Massimo Manzi<br> Teléfono: 2201-5263<br> Fax: 2201-5264<br> Dirección Electrónica: <span id="cloakf47a9b42d77b8f3f03d7c9be9d32fb91"><a href="mailto:director@promedcostarica.com">director@promedcostarica.com</a></span><script type="text/javascript">
+				document.getElementById('cloakf47a9b42d77b8f3f03d7c9be9d32fb91').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addyf47a9b42d77b8f3f03d7c9be9d32fb91 = 'd&#105;r&#101;ct&#111;r' + '&#64;';
+				addyf47a9b42d77b8f3f03d7c9be9d32fb91 = addyf47a9b42d77b8f3f03d7c9be9d32fb91 + 'pr&#111;m&#101;dc&#111;st&#97;r&#105;c&#97;' + '&#46;' + 'c&#111;m';
+				var addy_textf47a9b42d77b8f3f03d7c9be9d32fb91 = 'd&#105;r&#101;ct&#111;r' + '&#64;' + 'pr&#111;m&#101;dc&#111;st&#97;r&#105;c&#97;' + '&#46;' + 'c&#111;m';document.getElementById('cloakf47a9b42d77b8f3f03d7c9be9d32fb91').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyf47a9b42d77b8f3f03d7c9be9d32fb91 + '\'>'+addy_textf47a9b42d77b8f3f03d7c9be9d32fb91+'<\/a>';
+		</script> <br> Página Web: www.promedcostarica.com<br> Dirección: Edificio Torre Médica, Clínica Bíblica, piso 9</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+								<div class="span4">
+				<div class="item column-3">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/408-camara-nacional-de-armadores-y-agentes-de-vapores-nave.html"> <span class="item_title_part0">Cámara</span> <span class="item_title_part1">Costarricense</span> <span class="item_title_part2">de</span> <span class="item_title_part3">Navieros</span> <span class="item_title_part4">(NAVE)</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/NAVE.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente: Edgardo González<br> Director Ejecutivo: Alfredo Salas<br> Teléfono: 8835-2889<br> Dirección Electrónica: <span id="cloak5b8ab855ca9f35f93c3503bf699f91c2"><a href="mailto:asalas@navecostarica.com">asalas@navecostarica.com</a></span><script type="text/javascript">
+				document.getElementById('cloak5b8ab855ca9f35f93c3503bf699f91c2').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy5b8ab855ca9f35f93c3503bf699f91c2 = '&#97;s&#97;l&#97;s' + '&#64;';
+				addy5b8ab855ca9f35f93c3503bf699f91c2 = addy5b8ab855ca9f35f93c3503bf699f91c2 + 'n&#97;v&#101;c&#111;st&#97;r&#105;c&#97;' + '&#46;' + 'c&#111;m';
+				var addy_text5b8ab855ca9f35f93c3503bf699f91c2 = '&#97;s&#97;l&#97;s' + '&#64;' + 'n&#97;v&#101;c&#111;st&#97;r&#105;c&#97;' + '&#46;' + 'c&#111;m';document.getElementById('cloak5b8ab855ca9f35f93c3503bf699f91c2').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy5b8ab855ca9f35f93c3503bf699f91c2 + '\'>'+addy_text5b8ab855ca9f35f93c3503bf699f91c2+'<\/a>';
+		</script><span style="font-family: Calibri, sans-serif;"><span style="font-size: 16px;"></span></span><br> Página Web: www.navecostarica.com<br>Dirección: San Francisco de Goicoechea, oficentro Torres del Campo, torre 1, piso 2.</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+						
+		</div><!-- end row -->
+							<div class="items-row cols-3 row-8 row-fluid">
+					<div class="span4">
+				<div class="item column-1">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/414-camara-costarricense-de-porcicultores.html"> <span class="item_title_part0">Cámara</span> <span class="item_title_part1">Costarricense</span> <span class="item_title_part2">de</span> <span class="item_title_part3">Porcicultores</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/porcicultores.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente: Rómulo Chaves<br>Directora Ejecutiva: Patricia Rojas<br>Teléfono: 2293-3980<br>Fax: 2293-3918 <br>Apartado: 71-4005 Belén, Heredia<br> Dirección Electrónica: <span id="cloak823fbb5b03458d611e231c100d5252e4"><a href="mailto:caporc.info@gmail.com">caporc.info@gmail.com</a></span><script type="text/javascript">
+				document.getElementById('cloak823fbb5b03458d611e231c100d5252e4').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy823fbb5b03458d611e231c100d5252e4 = 'c&#97;p&#111;rc.&#105;nf&#111;' + '&#64;';
+				addy823fbb5b03458d611e231c100d5252e4 = addy823fbb5b03458d611e231c100d5252e4 + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+				var addy_text823fbb5b03458d611e231c100d5252e4 = 'c&#97;p&#111;rc.&#105;nf&#111;' + '&#64;' + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';document.getElementById('cloak823fbb5b03458d611e231c100d5252e4').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy823fbb5b03458d611e231c100d5252e4 + '\'>'+addy_text823fbb5b03458d611e231c100d5252e4+'<\/a>';
+		</script><br>Página Web: www.caporc.com<br>Dirección: Heredia, San Antonio de Belén, 50mts norte del Hotel El Rodeo</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+								<div class="span4">
+				<div class="item column-2">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/398-camara-costarricense-de-restaurantes-y-afines-cacore.html"> <span class="item_title_part0">Cámara</span> <span class="item_title_part1">Costarricense</span> <span class="item_title_part2">de</span> <span class="item_title_part3">Restaurantes</span> <span class="item_title_part4">y</span> <span class="item_title_part5">Afines</span> <span class="item_title_part6">(CACORE)</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/CACORE_Dos.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente:&nbsp;Jorge Figueroa<br> Directora Ejecutiva: María Bolaños Aguilar<br> Teléfono: 2234-2304<br>Fax: 2234-5469<br> Dirección Electrónica: <span id="cloakb3345f5c0748ecd969cdb03fd0f3c829"><a href="mailto:info@cacore.cr">info@cacore.cr</a></span><script type="text/javascript">
+				document.getElementById('cloakb3345f5c0748ecd969cdb03fd0f3c829').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addyb3345f5c0748ecd969cdb03fd0f3c829 = '&#105;nf&#111;' + '&#64;';
+				addyb3345f5c0748ecd969cdb03fd0f3c829 = addyb3345f5c0748ecd969cdb03fd0f3c829 + 'c&#97;c&#111;r&#101;' + '&#46;' + 'cr';
+				var addy_textb3345f5c0748ecd969cdb03fd0f3c829 = '&#105;nf&#111;' + '&#64;' + 'c&#97;c&#111;r&#101;' + '&#46;' + 'cr';document.getElementById('cloakb3345f5c0748ecd969cdb03fd0f3c829').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyb3345f5c0748ecd969cdb03fd0f3c829 + '\'>'+addy_textb3345f5c0748ecd969cdb03fd0f3c829+'<\/a>';
+		</script> <br> Dirección: Zapote, de la Universidad Veritas, 200 metros este y 25 metros sur.</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+								<div class="span4">
+				<div class="item column-3">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/399-camara-costarricense-de-tecnologia-de-informacion-y-comunicacion-camtic.html"> <span class="item_title_part0">Cámara</span> <span class="item_title_part1">Costarricense</span> <span class="item_title_part2">de</span> <span class="item_title_part3">Tecnología</span> <span class="item_title_part4">de</span> <span class="item_title_part5">Información</span> <span class="item_title_part6">y</span> <span class="item_title_part7">Comunicación</span> <span class="item_title_part8">(CAMTIC)</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/19.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente:&nbsp;Paul Fervoy<br> Director Ejecutivo: M.Sc. Christian Sánchez<br> Teléfono: 2283-5604/24/2283-5482<br> Fax: 2280-4691<br> Dirección Electrónica: <span id="cloake81c19921aec5815df8b12d1a0200f4a"><a href="mailto:info@camtic.org">info@camtic.org</a></span><script type="text/javascript">
+				document.getElementById('cloake81c19921aec5815df8b12d1a0200f4a').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addye81c19921aec5815df8b12d1a0200f4a = '&#105;nf&#111;' + '&#64;';
+				addye81c19921aec5815df8b12d1a0200f4a = addye81c19921aec5815df8b12d1a0200f4a + 'c&#97;mt&#105;c' + '&#46;' + '&#111;rg';
+				var addy_texte81c19921aec5815df8b12d1a0200f4a = '&#105;nf&#111;' + '&#64;' + 'c&#97;mt&#105;c' + '&#46;' + '&#111;rg';document.getElementById('cloake81c19921aec5815df8b12d1a0200f4a').innerHTML += '<a ' + path + '\'' + prefix + ':' + addye81c19921aec5815df8b12d1a0200f4a + '\'>'+addy_texte81c19921aec5815df8b12d1a0200f4a+'<\/a>';
+		</script> <br> Página Web: www.camtic.org<br> Dirección: San Pedro, Outlet Mall 600 mts Sur y 75 mts Oeste</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+						
+		</div><!-- end row -->
+							<div class="items-row cols-3 row-9 row-fluid">
+					<div class="span4">
+				<div class="item column-1">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/400-camara-costarricense-norteamericana-de-comercio-amcham.html"> <span class="item_title_part0">Cámara</span> <span class="item_title_part1">Costarricense</span> <span class="item_title_part2">Norteamericana</span> <span class="item_title_part3">de</span> <span class="item_title_part4">Comercio</span> <span class="item_title_part5">(AMCHAM)</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/AmCham2018.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidenta:&nbsp;Gisela Sánchez<br> Director Ejecutivo: Alberto Arguedas<br> Teléfono: 2220-2200<br> Apartado: 4946-1000 San José<br> Fax: 2220-2300<br> Dirección Electrónica: <span id="cloakc3554c8270067b63f7166a4a95cd6e13"><a href="mailto:info@amcham.cr">info@amcham.cr</a></span><script type="text/javascript">
+				document.getElementById('cloakc3554c8270067b63f7166a4a95cd6e13').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addyc3554c8270067b63f7166a4a95cd6e13 = '&#105;nf&#111;' + '&#64;';
+				addyc3554c8270067b63f7166a4a95cd6e13 = addyc3554c8270067b63f7166a4a95cd6e13 + '&#97;mch&#97;m' + '&#46;' + 'cr';
+				var addy_textc3554c8270067b63f7166a4a95cd6e13 = '&#105;nf&#111;' + '&#64;' + '&#97;mch&#97;m' + '&#46;' + 'cr';document.getElementById('cloakc3554c8270067b63f7166a4a95cd6e13').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyc3554c8270067b63f7166a4a95cd6e13 + '\'>'+addy_textc3554c8270067b63f7166a4a95cd6e13+'<\/a>';
+		</script>&nbsp;&nbsp;<br> Página Web: <a href="http://www.amcham.cr/">http://www.amcham.cr/</a><br> Dirección:&nbsp;Sabana Norte, 300 m. noreste del ICE</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+								<div class="span4">
+				<div class="item column-2">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/410-camara-nacional-de-azucareros.html"> <span class="item_title_part0">Cámara</span> <span class="item_title_part1">de</span> <span class="item_title_part2">Azucareros</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/Logo-Camara-de-Azucareros.JPG" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente: José Álvaro Jenkins<br>Director Ejecutivo: Guillermo Quijano&nbsp;<br>Teléfono: 2221-2103<br>Fax: 2222-1358<br>Dirección Electrónica:&nbsp;<span id="cloak107eb0bc71db6b520256184db7e5def0"><a href="mailto:nalfaro@laica.co.cr">gquijano@laica.co.cr</a></span><script type="text/javascript">
+				document.getElementById('cloak107eb0bc71db6b520256184db7e5def0').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy107eb0bc71db6b520256184db7e5def0 = 'n&#97;lf&#97;r&#111;' + '&#64;';
+				addy107eb0bc71db6b520256184db7e5def0 = addy107eb0bc71db6b520256184db7e5def0 + 'l&#97;&#105;c&#97;' + '&#46;' + 'c&#111;' + '&#46;' + 'cr';
+				var addy_text107eb0bc71db6b520256184db7e5def0 = 'gq&#117;&#105;j&#97;n&#111;' + '&#64;' + 'l&#97;&#105;c&#97;' + '&#46;' + 'c&#111;' + '&#46;' + 'cr';document.getElementById('cloak107eb0bc71db6b520256184db7e5def0').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy107eb0bc71db6b520256184db7e5def0 + '\'>'+addy_text107eb0bc71db6b520256184db7e5def0+'<\/a>';
+		</script>&nbsp;<br>Dirección Física: Costado oeste Ministerio de&nbsp;Trabajo, Barrio Turnón. Edificio de la Liga de Caña.</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+								<div class="span4">
+				<div class="item column-3">
+					
+<!-- Icons -->
+
+
+<!--  title/author -->
+			<div class="item_header">
+					<h6 class="item_title">									<a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas/297-camara-costarricense-de-importadores-distribuidores-y-representantes-crecex.html"> <span class="item_title_part0">Cámara</span> <span class="item_title_part1">de</span> <span class="item_title_part2">Comercio</span> <span class="item_title_part3">Exterior</span> <span class="item_title_part4">de</span> <span class="item_title_part5">Costa</span> <span class="item_title_part6">Rica</span> <span class="item_title_part7">y</span> <span class="item_title_part8">de</span> <span class="item_title_part9">Representantes</span> <span class="item_title_part10">de</span> <span class="item_title_part11">Casas</span> <span class="item_title_part12">Extranjeras</span> <span class="item_title_part13">(CRECEX)</span> </a>
+							</h6>		
+		
+		
+		</div>
+	
+<!-- info TOP -->
+			
+	
+		
+<!-- Intro image -->
+					<div class="item_img img-intro img-intro__none">
+			<img src="./lista_files/23.jpg" alt="">
+		</div>
+		
+
+	
+<!-- Introtext -->
+	<div class="item_introtext"><p>Presidente: José Manuel Quirce<br> Director Ejecutivo: Katherine Chaves<br> Teléfono: 2253-0126<br> Apartado: 3738-1000 S.J.<br> Fax: 2234-2557<br> Dirección Electrónica: <span id="cloaka559ea4b7181546e004edd3589c91e5d"><a href="mailto:crecex@crecex.com">crecex@crecex.com</a></span><script type="text/javascript">
+				document.getElementById('cloaka559ea4b7181546e004edd3589c91e5d').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addya559ea4b7181546e004edd3589c91e5d = 'cr&#101;c&#101;x' + '&#64;';
+				addya559ea4b7181546e004edd3589c91e5d = addya559ea4b7181546e004edd3589c91e5d + 'cr&#101;c&#101;x' + '&#46;' + 'c&#111;m';
+				var addy_texta559ea4b7181546e004edd3589c91e5d = 'cr&#101;c&#101;x' + '&#64;' + 'cr&#101;c&#101;x' + '&#46;' + 'c&#111;m';document.getElementById('cloaka559ea4b7181546e004edd3589c91e5d').innerHTML += '<a ' + path + '\'' + prefix + ':' + addya559ea4b7181546e004edd3589c91e5d + '\'>'+addy_texta559ea4b7181546e004edd3589c91e5d+'<\/a>';
+		</script> <br> Página Web: <a href="http://www.crecex.com/">http://www.crecex.com</a><br> Dirección: 50 metros este y 25 metros sur del Archivo Nacional, Curridabat</p>
+<p>-----------------------------------------------</p> </div>
+
+<!-- info BOTTOM -->
+	
+<!-- More -->
+	
+
+	<!-- Tags -->
+
+				
+			
+				</div><!-- end item -->
+							</div><!-- end spann -->
+						
+		</div><!-- end row -->
+						
+	
+
+			
+	<div class="pagination">
+				<p class="counter"> Página 1 de 2 </p>
+				<ul>
+	<li class="pagination-start firstItem"><span class="pagenav">Inicio</span></li>
+	<li class="pagination-prev"><span class="pagenav">Anterior</span></li>
+			<li class="num"><span class="pagenav">1</span></li>			<li class="num"><a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas.html?start=30" class="pagenav">2</a></li>		<li class="pagination-next"><a title="" href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas.html?start=30" class="hasTooltip pagenav" data-original-title="Siguiente">Siguiente</a></li>
+	<li class="pagination-end lastItem"><a title="" href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas.html?start=30" class="hasTooltip pagenav" data-original-title="Final">Final</a></li>
+</ul>
+ </div>
+	</div>
+
+        
+              <!-- Content-bottom -->
+                          </div>
+        
+            <!-- Right sidebar -->
+                      </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Mainbottom -->
+    
+    <!-- Bottom -->
+          <div id="bottom-row">
+        <div class="row-container">
+          <div class="container-fluid">
+            <div id="bottom" class="row-fluid">
+              <div class="moduletable testimonials  span4"><h4 class="moduleTitle ">Afíliese a UCCAEP</h4>
+<div class="mod-newsflash-adv mod-newsflash-adv__testimonials">
+
+    
+    
+  
+    
+  
+  <div class="clearfix"></div>
+
+  
+</div>
+</div><div class="moduletable follow  span4"><h4 class="moduleTitle ">UCCAEP en redes sociales</h4>
+<div class="mod-menu__social">
+	<ul class="menu social">
+	<li class="item-146 firstItem"><a class="facebook" href="https://www.facebook.com/union.uccaep" target="_blank">Facebook</a></li><li class="item-148"><a class="twitter" href="https://twitter.com/Uccaep" target="_blank">Twitter</a></li><li class="item-150"><a class="youtube" href="https://www.youtube.com/channel/UCeOJi-hG82IaWWQ7c_xdD8g" target="_blank">Youtube</a></li><li class="item-492 lastItem"><a href="https://www.uccaep.or.cr/index.php/uccaep.html">UCCAEP</a></li></ul>
+</div>
+</div><div class="moduletable contform  span4"><h4 class="moduleTitle ">Contacte a UCCAEP</h4><style type="text/css"><!--div.rapid_contact tr, div.rapid_contact td { border: none;}--></style><div class="rapid_contact contform"><form action="https://www.uccaep.or.cr/index.php/about/camaras-asociadas.html" method="post">
+<div class="rapid_contact intro_text contform"></div>
+<table><tbody><tr><td>Nombre*:</td><td><input class="rapid_contact inputbox contform" type="text" name="rp_subject" size="15" value=""></td></tr>
+<tr><td>E-mail*:</td><td><input class="rapid_contact inputbox contform" type="text" name="rp_email" size="15" value=""></td></tr>
+<tr><td valign="top">Mensaje*:</td><td><textarea class="rapid_contact textarea contform" name="rp_message" cols="13" rows="4"></textarea></td></tr>
+<tr><td colspan="2">Cuantos ojos tiene una persona promedio?</td></tr><tr><td></td><td><input class="rapid_contact inputbox contform" type="text" name="rp_anti_spam_answer" size="15" value=""></td></tr>
+<tr><td colspan="2"><input class="rapid_contact button contform" type="submit" value="Enviar" style="width: 100%"></td></tr></tbody></table></form></div>
+</div>
+            </div>
+          </div>
+        </div>
+      </div>
+        <div id="push"></div>
+    </div>
+  </div>
+
+  <div id="footer-wrapper">
+    <div class="footer-wrapper-inner">
+      <!-- Footer -->
+            
+      <!-- Copyright -->
+        <div id="copyright-row">
+          <div class="row-container">
+            <div class="container-fluid">
+              <div class="row-fluid">
+                  <!-- Logo -->
+                  <div id="copyright" class="span6">
+                  	                    <span class="siteName">UCCAEP, Unión Costarricense de Cámaras y Asociaciones del Sector Empresarial Privado, Costa Rica</span>  															                                                          </div>
+                
+                <!-- {%FOOTER_LINK} -->
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
+  </div>
+      <div id="back-top" style="display: none;">
+      <a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas.html#"><span></span> ir arriba</a>
+    </div>
+  <div style="position: fixed; z-index: 1000; width: 164px; height: 98px; bottom: 15px; right: 15px;"><a href="https://www.uccaep.or.cr/index.php/about/camaras-asociadas.html#" onclick="window.open(&#39;https://www.sitelock.com/verify.php?site=uccaep.org&#39;,&#39;SiteLock&#39;,&#39;width=600,height=600,left=160,top=170&#39;);"><img class="img-responsive" alt="SiteLock" title="SiteLock" src="./lista_files/uccaep.org"></a></div>
+
+  
+  
+
+  
+
+
+</body></html>
